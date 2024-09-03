@@ -11,7 +11,7 @@ System requirements: Android 4.0+
 [Discord](https://discord.gg/msjsG55MGn)  
 
 
-
+ 
 
 [
 
