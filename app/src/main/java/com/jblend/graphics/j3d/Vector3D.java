@@ -19,7 +19,7 @@ package com.jblend.graphics.j3d;
 public class Vector3D extends com.mascotcapsule.micro3d.v3.Vector3D {
 	public Vector3D() {
 	}
-
+ 
 	public Vector3D(int x, int y, int z) {
 		super(x, y, z);
 	}
